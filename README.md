@@ -1,4 +1,4 @@
-### Hi folks. I am Igor Kaliel 👋
+<h1 align='center' color='#> Hi folks. I am Igor Kaliel 👋</h1>
 
 <div align="center">
   <a href="https://github.com/IgorKaliel">
