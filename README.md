@@ -19,4 +19,4 @@ helloWorld();
 
 [![My languages](https://skillicons.dev/icons?i=js,ts,nodejs,fastapi,nestjs,react,nextjs,html,css)](https://skillicons.dev)
 
-`Javascript` `Typescript` `NodeJS` `React` `HTML` `CSS` 
+`Javascript` `Typescript` `NodeJS` `FastAPI` `NestJS` `React` `NextJs` `HTML` `CSS` 
